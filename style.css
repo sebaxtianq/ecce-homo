@@ -46,6 +46,13 @@
 	font-family:'Lobster',cursive;
 	font-size:50px;
 }
+.article-title{
+	font-family:'Concert One',fantasy;
+	color:darkblue;
+}
+.article-text{
+	font-family:'Philosopher',cursive;
+}
 .fotomenu{
 	margin:15px;
 }
